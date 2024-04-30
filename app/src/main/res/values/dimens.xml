@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnRegenerate_textSize">18sp</dimen>
+    <dimen name="btnRegenerate_cornerRadius">5dp</dimen>
+    <dimen name="common_0dp">0dp</dimen>
+    <dimen name="common_8dp">8dp</dimen>
+    <dimen name="common_24dp">24dp</dimen>
+    <dimen name="common_12dp">12dp</dimen>
+    <dimen name="common_4dp">4dp</dimen>
+</resources>

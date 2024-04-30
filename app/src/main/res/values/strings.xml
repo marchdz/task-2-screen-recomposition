@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task 2: Recomposition</string>
+    <string name="btnRegenerate_text">Regenerar</string>
+    <string name="textViews_preview_text">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</string>
+</resources>
